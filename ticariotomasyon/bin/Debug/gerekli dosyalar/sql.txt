@@ -1,0 +1,1 @@
+Data Source=BEYSOGLU;Initial Catalog=şirket yönetim otomasyon;Integrated Security=True
